@@ -1,5 +1,5 @@
 _repo: Great-Zimbabwe-Mashonaland-Rhodesia-An-account-of-two-years-examination-work-in-1902-4-on-beh__62501
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Keane, A. H. (Augustus Henry)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1912
     gutenberg_agent_id: '37827'
     url: http://www.gutenberg.org/2009/agents/37827
+covers:
+- cover_type: archival
+  image_path: 62501-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, R. N. (Richard Nicklin)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '51969'
     url: http://www.gutenberg.org/2009/agents/51969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62501#Great-Zimbabwe-Mashonaland-Rhodesia-An-account-of-two-years-examination-work-in-1902-4-on-beh_
 gutenberg_issued: '2020-06-27'
 gutenberg_type: Text
 identifiers:
