@@ -1,0 +1,36 @@
+_repo: Great-Zimbabwe-Mashonaland-Rhodesia-An-account-of-two-years-examination-work-in-1902-4-on-beh__62501
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Keane, A. H. (Augustus Henry)
+    alias: Keane, Augustus H. (Augustus Henry)
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '37827'
+    url: http://www.gutenberg.org/2009/agents/37827
+creator:
+  author:
+    agent_name: Hall, R. N. (Richard Nicklin)
+    alias: Hall, Richard Nicklin
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '51969'
+    url: http://www.gutenberg.org/2009/agents/51969
+description: ''
+gutenberg_issued: '2020-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62501'
+  lccn: '05030054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Great Zimbabwe (Extinct city)'
+- !lcsh 'Zimbabwe -- Antiquities'
+- GITenberg
+title: "Great Zimbabwe, Mashonaland, Rhodesia\r\nAn account of two years' examination\
+  \ work in 1902-4 on behalf of the government of Rhodesia"
+url: http://www.gutenberg.org/ebooks/62501
